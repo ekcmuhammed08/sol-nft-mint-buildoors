@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Buildoors-Nft
 
-Each buildoor is randomly generated and can be staked to receive $BLD Use your $BLD to upgrade your buildoor and receive perks within the community!
+Each buildoor is randomly generated and can be staked to receive **$BLD** Use your **$BLD** to upgrade your buildoor and receive perks within the community!
 
 ## Deploy on Vercel
 
